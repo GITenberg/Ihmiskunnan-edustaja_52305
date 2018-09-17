@@ -1,0 +1,47 @@
+_repo: Ihmiskunnan-edustaja_52305
+_version: 0.0.1
+alternative_title: Representative men. Finnish
+contributor:
+  translator:
+    agent_name: Kilpi, Volter
+    alias: Ericsson, Volter
+    birthdate: 1874
+    deathdate: 1939
+    gutenberg_agent_id: '6058'
+    url: http://www.gutenberg.org/2009/agents/6058
+creator:
+  author:
+    agent_name: Emerson, Ralph Waldo
+    aliases:
+    - Emerson, R. Waldo (Ralph Waldo)
+    - Emerson, Waldo
+    - Emerson, R. W. (Ralph Waldo)
+    birthdate: 1803
+    deathdate: 1882
+    gutenberg_agent_id: '1071'
+    url: http://www.gutenberg.org/2009/agents/1071
+    wikipedia: http://en.wikipedia.org/wiki/Ralph_Waldo_Emerson
+description: ''
+gutenberg_issued: '2016-06-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52305'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Biography'
+- !lcsh 'Plato'
+- !lcsh 'Goethe, Johann Wolfgang von, 1749-1832'
+- !lcsh 'Montaigne, Michel de, 1533-1592'
+- !lcsh 'Swedenborg, Emanuel, 1688-1772'
+- !lcsh 'Shakespeare, William, 1564-1616'
+- !lcc 'PS'
+- !lcsh 'Napoleon I, Emperor of the French, 1769-1821'
+- GITenberg
+tableOfContents: Esipuhe -- Suurten miesten merkityksestä -- Plato, filosofi; Plato,
+  lisäyksiä -- Swedenborg, mystikko -- Montaigne, epäilijä -- Shakespeare, runoilija
+  -- Napoleon, käytännön mies -- Goethe, kirjailija.
+title: Ihmiskunnan edustaja
+url: http://www.gutenberg.org/ebooks/52305
